@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":" https:\/\/iz-dresden.org"
+                 "value":"https:\/\/iz-dresden.org\/de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
