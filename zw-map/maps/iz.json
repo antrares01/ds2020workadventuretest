@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":" https:\/\/www.blobby-online.com\/de\/game\/guest\/private"
+                 "value":" https:\/\/iz-dresden.org"
                 }],
          "type":"tilelayer",
          "visible":true,
