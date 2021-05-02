@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/keller.json"
+                 "value":".\/keller.json"
                 }],
          "type":"tilelayer",
          "visible":true,
