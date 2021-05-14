@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#start_hq2"
+                 "value":"main.json#start_hq2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#start_hq1"
+                 "value":"main.json#start_hq1"
                 }],
          "type":"tilelayer",
          "visible":true,

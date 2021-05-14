@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/grsaal.json#start3"
+                 "value":"grsaal.json#start3"
                 }],
          "type":"tilelayer",
          "visible":true,
