@@ -1,2 +1,2 @@
-#DS2020workadventuretest
-Map of Zentralwerk and c3d2 for Datenspuren 2020 and rC3
+#iz-buko-workadventure
+WorkAdventure Map of the Zentralwerk for the IZ Festival and the BUKO Festival
