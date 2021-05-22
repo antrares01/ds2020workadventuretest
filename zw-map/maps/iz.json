@@ -31,11 +31,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/meeten.statt-drosseln.de\/b\/ant-kq5-dmg-vwv"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
