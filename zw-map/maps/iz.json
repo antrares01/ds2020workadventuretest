@@ -13,6 +13,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCeShN2h7yD94_JeabKmkpkA"
+                }, 
+                {
+                 "name":"openWebsitePolicy:",
+                 "type":"string",
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -31,6 +36,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
+                }, 
+                {
+                 "name":"openWebsitePolicy:",
+                 "type":"string",
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 }],
          "type":"tilelayer",
          "visible":true,
