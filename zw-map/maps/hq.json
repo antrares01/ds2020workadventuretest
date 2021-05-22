@@ -833,7 +833,7 @@
          "imageheight":4032,
          "imagewidth":256,
          "margin":0,
-         "name":"[Base]BaseChip_pipo",
+         "name":"BaseChip",
          "spacing":0,
          "tilecount":1008,
          "tileheight":32,
