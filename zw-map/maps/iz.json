@@ -35,7 +35,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
+                 "value":"openInNewTab('https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb');"
                 }],
          "type":"tilelayer",
          "visible":true,
