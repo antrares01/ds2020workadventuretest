@@ -12,7 +12,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Infopoint1"
                 }],
          "type":"tilelayer",
          "visible":true,
