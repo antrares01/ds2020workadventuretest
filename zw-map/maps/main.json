@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"iz.json"
+                 "value":"\/@\/az-buko39\/festival-kongress\/iz"
                 }],
          "type":"tilelayer",
          "visible":true,
