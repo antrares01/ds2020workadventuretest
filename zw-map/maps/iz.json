@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/JxV9ODIPuF4&autoplay=1"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/JxV9ODIPuF4"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -88,7 +88,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/rHkzlqO3mno&autoplay=1"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/rHkzlqO3mno"
                 }, 
                 {
                  "name":"openWebsitePolicy",
