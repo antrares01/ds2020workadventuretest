@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"keller.json"
+                 "value":"\/@\/az-buko39\/festival-kongress\/keller"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_grsaal2"
+                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_grsaal2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_grsaal1"
+                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_grsaal1"
                 }],
          "type":"tilelayer",
          "visible":true,

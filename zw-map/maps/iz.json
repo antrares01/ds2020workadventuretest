@@ -35,12 +35,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
+                 "value":"https:\/\/bbb001hz.makeutopia.de\/b\/buk-7gq-79j"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"'_blank'"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -88,7 +88,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/hof#start_iz"
+                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_iz"
                 }],
          "type":"tilelayer",
          "visible":true,

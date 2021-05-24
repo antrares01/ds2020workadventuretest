@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"grsaal.json#start3"
+                 "value":"\/@\/az-buko39\/festival-kongress\/grsaal#start3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -144,12 +144,12 @@
          "columns":16,
          "firstgid":170,
          "image":"..\/tiles\/cert_safety.png",
-         "imageheight":2048,
+         "imageheight":64,
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
          "spacing":0,
-         "tilecount":1024,
+         "tilecount":32,
          "tileheight":32,
          "tilewidth":32
         }],
