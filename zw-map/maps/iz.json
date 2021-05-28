@@ -111,12 +111,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
+                 "value":"https:\/\/demo.bigbluebutton.org\/gl\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":" _top"
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,12 +182,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":" _ parent"
+                 "value":"srcdoc=\"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb\""
                 }],
          "type":"tilelayer",
          "visible":true,
