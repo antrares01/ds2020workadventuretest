@@ -116,7 +116,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"embed"
+                 "value":"target='_top'"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,7 +182,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<embed type=\"html\"\n       src=\"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb\"\n       width=\"640\"\n       height=\"480\">"
+                 "value":"https:\/\/bbb.bluit.de\/b\/ant-ssl-hgp-2xb"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"target = '_ parent'"
                 }],
          "type":"tilelayer",
          "visible":true,
