@@ -16,7 +16,7 @@ WA.onEnterZone(zoneStageName, () => {
 })
 
 WA.onEnterZone(zoneWelcomeName, () => {
-    currentPopup =  WA.openPopup("popUpWelcome","Herzlich Willkommen beim IZ-Festival!",[]);
+    currentPopup =  WA.openPopup("popUpWelcome","Wunderschön das Du beim IZ-Festival dabei bist!",[]);
 })
 
 WA.onLeaveZone(zoneStageName, closePopUp)
