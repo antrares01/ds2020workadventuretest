@@ -1,7 +1,7 @@
-var zonePodiumName = "popupStageZone";
-var zoneWillkommenName = "popupWelcomeZone";
+var zoneStageName = "popupStageZone";
+var zoneWelcomeName = "popupWelcomeZone";
 
-var urlPodium = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
+var urlStage = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
 var currentPopup = undefined;
 
 WA.onEnterZone(zoneStageName, () => {
