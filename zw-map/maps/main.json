@@ -572,6 +572,12 @@
  "nextlayerid":72,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,
