@@ -18,6 +18,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke SPACE oder klicke hier um den Infopoint zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
