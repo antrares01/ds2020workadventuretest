@@ -257,15 +257,15 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":111,
+                 "height":115,
                  "id":1,
                  "name":"popUpStage",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":175,
-                 "x":1193.5,
-                 "y":1079
+                 "width":135,
+                 "x":1153,
+                 "y":1069
                 }],
          "opacity":1,
          "type":"objectgroup",
