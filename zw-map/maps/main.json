@@ -10,19 +10,19 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"JitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Der Infopoint \u00f6ffnet sich durch SPACE oder Klick auf dieses Feld"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Infopoint1"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Der Infopoint \u00f6ffnet sich durch SPACE oder Klick auf dieses Feld"
                 }],
          "type":"tilelayer",
          "visible":true,
