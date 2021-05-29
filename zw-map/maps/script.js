@@ -5,7 +5,7 @@ var urlStage = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
 var currentPopup = undefined;
 
 WA.onEnterZone(zoneStageName, () => {
-   currentPopup =  WA.openPopup("popUpStage","Drücke 'Stage' um aufs Podium zu kommen! (Popups müssen erlaubt werden) ",[
+   currentPopup =  WA.openPopup("popUpStage","Drücke 'Stage' um aufs Podium zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
             label: "Stage",
             className: "popUpElement",
