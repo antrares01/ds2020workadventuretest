@@ -9,7 +9,6 @@ var zoneBBB6Name = "popupBBB6Zone";
 
 var urlStage = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
 
-
 var urlBBB1 = "https://bbb010hz.makeutopia.de/b/and-eu3-vzx-wcv";
 var urlBBB2 = "https://bbb010hz.makeutopia.de/b/and-mif-xy3-av1";
 var urlBBB3 = "https://bbb010hz.makeutopia.de/b/and-vqx-pox-d8t";
