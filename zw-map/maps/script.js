@@ -33,7 +33,7 @@ WA.onEnterZone(zoneStageName, () => {
 WA.onEnterZone(zoneBBB1Name, () => {
    currentPopup =  WA.openPopup("popUpBBB1","Drücke 'OPEN' um in den Raum 1 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB1",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB1);
@@ -44,7 +44,7 @@ WA.onEnterZone(zoneBBB1Name, () => {
 WA.onEnterZone(zoneBBB2Name, () => {
    currentPopup =  WA.openPopup("popUpBBB2","Drücke 'OPEN' um in den Raum 2 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB2",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB2);
@@ -55,7 +55,7 @@ WA.onEnterZone(zoneBBB2Name, () => {
 WA.onEnterZone(zoneBBB3Name, () => {
    currentPopup =  WA.openPopup("popUpBBB3","Drücke 'OPEN' um in den Raum 3 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB3",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB3);
@@ -66,7 +66,7 @@ WA.onEnterZone(zoneBBB3Name, () => {
 WA.onEnterZone(zoneBBB4Name, () => {
    currentPopup =  WA.openPopup("popUpBBB4","Drücke 'OPEN' um in den Raum 4 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB4",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB4);
@@ -77,7 +77,7 @@ WA.onEnterZone(zoneBBB4Name, () => {
 WA.onEnterZone(zoneBBB5Name, () => {
    currentPopup =  WA.openPopup("popUpBBB5","Drücke 'OPEN' um in den Raum 5 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB5",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB5);
@@ -88,7 +88,7 @@ WA.onEnterZone(zoneBBB5Name, () => {
 WA.onEnterZone(zoneBBB6Name, () => {
    currentPopup =  WA.openPopup("popUpBBB6","Drücke 'OPEN' um in den Raum 6 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
-            label: "BBB6",
+            label: "OPEN",
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlBBB6);
