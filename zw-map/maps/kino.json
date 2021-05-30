@@ -111,12 +111,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/I4pYPDHnhCk"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay; encrypted-media"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/I4pYPDHnhCk?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
