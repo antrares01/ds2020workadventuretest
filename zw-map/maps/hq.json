@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/seminar3\n"
+                 "value":"\/@\/az-buko39\/festival-kongress\/seminar3"
                 }],
          "type":"tilelayer",
          "visible":true,
