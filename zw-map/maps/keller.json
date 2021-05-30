@@ -72,12 +72,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.mixcloud.com\/evibes\/mit-mut-und-list-mit-mut-und-list-europ\u00e4ische-frauen-im-widerstand-gegen-faschismus-und-krieg\/"
+                 "value":"https:\/\/iz-festival.tk\/evibes\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen; autoplay"
                 }],
          "type":"tilelayer",
          "visible":true,
