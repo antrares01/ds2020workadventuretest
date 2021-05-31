@@ -25,7 +25,6 @@ WA.onEnterZone(zoneStageName, () => {
             className: "popUpElement",
             callback: (popup => {
                 WA.openTab(urlStage;
-		currentPopup.close();
             })
         }]);
 })
@@ -39,6 +38,7 @@ WA.onEnterZone(zoneBBB1Name, () => {
                 WA.openTab(urlBBB1);
             })
         }]);
+   currentPopup.close();
 })
 
 WA.onEnterZone(zoneBBB2Name, () => {
