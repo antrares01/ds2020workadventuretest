@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/557350583?autoplay=1"
+                 "value":"\"https:\/\/player.vimeo.com\/video\/557350583\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen\""
                 }],
          "type":"tilelayer",
          "visible":true,
