@@ -159,12 +159,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/77245677&color=%23100607&auto_play=true&hide_related=true&show_comments=falsee&show_user=false&show_reposts=false&show_teaser=false"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; autoplay"
+                 "value":"https%3A\/\/api.soundcloud.com\/tracks\/77245677&color=%23100607&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=true"
                 }],
          "type":"tilelayer",
          "visible":true,
