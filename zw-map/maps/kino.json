@@ -205,12 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/player.vimeo.com\/video\/557350583"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"autoplay; fullscreen"
+                 "value":"https:\/\/player.vimeo.com\/video\/557350583?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
