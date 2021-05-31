@@ -24,7 +24,8 @@ WA.onEnterZone(zoneStageName, () => {
             label: "Stage",
             className: "popUpElement",
             callback: (popup => {
-                WA.openTab(urlStage);
+                WA.openTab(urlStage;
+		zoneStageName, closePopUp);
             })
         }]);
 })
