@@ -206,6 +206,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/player.vimeo.com\/video\/557350583?autoplay=1"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
