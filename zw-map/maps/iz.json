@@ -144,7 +144,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/kiezdrucker.de\/"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
