@@ -834,6 +834,8 @@
                  "x":1743,
                  "y":910.000000000001
                 }],
+         "offsetx":1.33333333333326,
+         "offsety":-0.666666666666742,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
