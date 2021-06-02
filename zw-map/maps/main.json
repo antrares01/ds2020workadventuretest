@@ -589,6 +589,12 @@
                  "id":86,
                  "name":"schildhelp",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/iz-festival.tk\/howto\/"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":70,
