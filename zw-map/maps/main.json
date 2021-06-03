@@ -762,7 +762,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/iz-dresden.org\/de\/programm-internationalismus-festival2\/"
+                 "value":"https:\/\/iz-dresden.org\/de\/programm-und-raeume-internationalismus-festival2"
                 }],
          "type":"tilelayer",
          "visible":true,
