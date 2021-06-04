@@ -10,9 +10,9 @@ var zoneBBB6Name = "popupBBB6Zone";
 var urlStage = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
 
 var urlBBB1 = "https://bbb010hz.makeutopia.de/b/and-eu3-vzx-wcv";
-var urlBBB2 = "https://bbb010hz.makeutopia.de/b/and-mif-xy3-av1";
+var urlBBB2 = "https://bbb010hz.makeutopia.de/b/and-oxv-b7m-qkx";
 var urlBBB3 = "https://bbb010hz.makeutopia.de/b/and-vqx-pox-d8t";
-var urlBBB4 = "https://bbb010hz.makeutopia.de/b/and-gwx-xb1-8iy";
+var urlBBB4 = "https://bbb010hz.makeutopia.de/b/and-y3f-ywt-3l6";
 var urlBBB5 = "https://bbb010hz.makeutopia.de/b/and-wpa-hmu-l25";
 var urlBBB6 = "https://bbb010hz.makeutopia.de/b/and-iwb-hin-d1c";
 
