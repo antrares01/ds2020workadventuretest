@@ -186,12 +186,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/iz-festival.tk\/"
+                 "value":"https:\/\/buko39.nadir.org\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen; class=\"embed-responsive\";"
                 }],
          "type":"tilelayer",
          "visible":true,
