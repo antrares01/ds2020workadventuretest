@@ -662,7 +662,7 @@
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; autoplay=false;"
+                 "value":"fullscreen; autoplay none;"
                 }],
          "type":"tilelayer",
          "visible":true,
