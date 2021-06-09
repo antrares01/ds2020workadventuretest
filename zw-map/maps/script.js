@@ -7,9 +7,9 @@ var zoneBBB4Name = "popupBBB4Zone";
 var zoneBBB5Name = "popupBBB5Zone";
 var zoneBBB6Name = "popupBBB6Zone";
 
-var urlStage = "https://bbb010hz.makeutopia.de/b/and-jww-q3s-6bf";
+var urlStage = "https://bbb010hz.makeutopia.de/b/buk-krw-ksa-zwe";
 
-var urlBBB1 = "https://bbb010hz.makeutopia.de/b/and-eu3-vzx-wcv";
+var urlBBB1 = "https://buko39.buko.info/zugang-zu-den-raeumen/";
 var urlBBB2 = "https://bbb010hz.makeutopia.de/b/and-oxv-b7m-qkx";
 var urlBBB3 = "https://bbb010hz.makeutopia.de/b/and-vqx-pox-d8t";
 var urlBBB4 = "https://bbb010hz.makeutopia.de/b/and-y3f-ywt-3l6";
@@ -30,7 +30,7 @@ WA.onEnterZone(zoneStageName, () => {
 })
 
 WA.onEnterZone(zoneBBB1Name, () => {
-   currentPopup =  WA.openPopup("popUpBBB1","Drücke 'OPEN' um in den Raum 1 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
+   currentPopup =  WA.openPopup("popUpBBB1","Zugang zu den Kongressräumen: Drücke 'OPEN' - kein Passwort? Einfach anmelden. (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
             label: "OPEN",
             className: "popUpElement",
@@ -96,7 +96,7 @@ WA.onEnterZone(zoneBBB6Name, () => {
 })
 
 WA.onEnterZone(zoneWelcomeName, () => {
-    currentPopup =  WA.openPopup("popUpWelcome","Herzlich Willkommen and Welcome!",[]);
+    currentPopup =  WA.openPopup("popUpWelcome","Willkommen, Bienvenue, Welcome!",[]);
 })
 
 WA.onLeaveZone(zoneStageName, closePopUp)

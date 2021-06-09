@@ -29,7 +29,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/iz.mp3"
+                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -52,7 +52,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/iz.mp3"
+                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,7 +75,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/iz.mp3"
+                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
