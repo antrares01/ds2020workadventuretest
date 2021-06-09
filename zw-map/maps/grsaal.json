@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buko39.nadir.org\/"
+                 "value":"https:\/\/buko39.nadir.org\/stream3.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -155,7 +155,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buko39.nadir.org\/"
+                 "value":"https:\/\/buko39.nadir.org\/stream2.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -178,7 +178,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buko39.nadir.org\/"
+                 "value":"https:\/\/buko39.nadir.org\/stream1.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
