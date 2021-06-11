@@ -788,7 +788,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buko39.buko.info\/programm\/"
+                 "value":"https:\/\/buko39.buko.info\/awareness\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -818,7 +818,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/iz-dresden.org\/de\/verhalten-und-miteinander-im-workadventure-des-internationalismus-festival2\/"
+                 "value":"https:\/\/buko39.buko.info\/awareness\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -884,7 +884,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
