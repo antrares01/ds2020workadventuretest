@@ -20,17 +20,6 @@
          "id":14,
          "name":"Audio leise",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0.3
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -43,17 +32,6 @@
          "id":15,
          "name":"Audio mittel",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0.6
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -66,17 +44,6 @@
          "id":13,
          "name":"Audio laut",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":1
-                }, 
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"http:\/\/stream.nadir.org:8000\/buko39.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
