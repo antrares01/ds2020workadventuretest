@@ -7,14 +7,14 @@ var zoneBBB4Name = "popupBBB4Zone";
 var zoneBBB5Name = "popupBBB5Zone";
 var zoneBBB6Name = "popupBBB6Zone";
 
-var urlStage = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlStage = "https://www.c3d2.de/";
 
-var urlBBB1 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
-var urlBBB2 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
-var urlBBB3 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
-var urlBBB4 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
-var urlBBB5 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
-var urlBBB6 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB1 = "https://www.c3d2.de/";
+var urlBBB2 = "https://www.c3d2.de/";
+var urlBBB3 = "https://www.c3d2.de/";
+var urlBBB4 = "https://www.c3d2.de/";
+var urlBBB5 = "https://www.c3d2.de/";
+var urlBBB6 = "https://www.c3d2.de/";
 
 var currentPopup = undefined;
 
