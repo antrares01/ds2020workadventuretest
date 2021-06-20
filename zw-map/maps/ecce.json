@@ -20,6 +20,17 @@
          "id":14,
          "name":"Audio leise",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.3
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"http:\/\/stream.org:8000"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -32,6 +43,17 @@
          "id":15,
          "name":"Audio mittel",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.6
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"http:\/\/stream.org:8000"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -44,6 +66,17 @@
          "id":13,
          "name":"Audio laut",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":1
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"http:\/\/stream.org:8000"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
@@ -60,7 +93,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_ecce"
+                 "value":".\/main#start_ecce"
                 }],
          "type":"tilelayer",
          "visible":true,

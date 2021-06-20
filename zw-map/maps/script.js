@@ -7,14 +7,14 @@ var zoneBBB4Name = "popupBBB4Zone";
 var zoneBBB5Name = "popupBBB5Zone";
 var zoneBBB6Name = "popupBBB6Zone";
 
-var urlStage = "https://bbb010hz.makeutopia.de/b/buk-krw-ksa-zwe";
+var urlStage = "https://zentralwerk.de/";
 
-var urlBBB1 = "https://buko39.buko.info/zugang-zu-den-raeumen/";
-var urlBBB2 = "https://bbb010hz.makeutopia.de/b/and-oxv-b7m-qkx";
-var urlBBB3 = "https://bbb010hz.makeutopia.de/b/and-vqx-pox-d8t";
-var urlBBB4 = "https://bbb010hz.makeutopia.de/b/and-y3f-ywt-3l6";
-var urlBBB5 = "https://bbb010hz.makeutopia.de/b/and-wpa-hmu-l25";
-var urlBBB6 = "https://bbb010hz.makeutopia.de/b/and-iwb-hin-d1c";
+var urlBBB1 = "https://zentralwerk.de/";
+var urlBBB2 = "https://zentralwerk.de/";
+var urlBBB3 = "https://zentralwerk.de/";
+var urlBBB4 = "https://zentralwerk.de/";
+var urlBBB5 = "https://zentralwerk.de/";
+var urlBBB6 = "https://zentralwerk.de/";
 
 var currentPopup = undefined;
 

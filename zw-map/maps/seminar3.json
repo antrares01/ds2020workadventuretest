@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/hq#start_seminar3"
+                 "value":".\/hq#start_seminar3"
                 }],
          "type":"tilelayer",
          "visible":true,

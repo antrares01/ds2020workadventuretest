@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_wurzelwerk"
+                 "value":".\/main#start_wurzelwerk"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/hq#start_kino"
+                 "value":".\/hq#start_kino"
                 }],
          "type":"tilelayer",
          "visible":true,

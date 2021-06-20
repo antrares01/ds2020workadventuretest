@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/az-buko39\/festival-kongress\/main#start_iz"
+                 "value":".\/main#start_iz"
                 }],
          "type":"tilelayer",
          "visible":true,
