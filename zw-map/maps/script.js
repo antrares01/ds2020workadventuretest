@@ -7,14 +7,14 @@ var zoneBBB4Name = "popupBBB4Zone";
 var zoneBBB5Name = "popupBBB5Zone";
 var zoneBBB6Name = "popupBBB6Zone";
 
-var urlStage = "https://zentralwerk.de/";
+var urlStage = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
 
-var urlBBB1 = "https://zentralwerk.de/";
-var urlBBB2 = "https://zentralwerk.de/";
-var urlBBB3 = "https://zentralwerk.de/";
-var urlBBB4 = "https://zentralwerk.de/";
-var urlBBB5 = "https://zentralwerk.de/";
-var urlBBB6 = "https://zentralwerk.de/";
+var urlBBB1 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB2 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB3 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB4 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB5 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
+var urlBBB6 = "https://iz-dresden.org/de/category/internationalismus-festival-n2/";
 
 var currentPopup = undefined;
 
