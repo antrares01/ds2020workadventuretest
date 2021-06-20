@@ -7,14 +7,14 @@ var zoneBBB4Name = "popupBBB4Zone";
 var zoneBBB5Name = "popupBBB5Zone";
 var zoneBBB6Name = "popupBBB6Zone";
 
-var urlStage = "https://www.c3d2.de/";
+var urlStage = "https://zentralwerk.de/";
 
-var urlBBB1 = "https://www.c3d2.de/";
-var urlBBB2 = "https://www.c3d2.de/";
-var urlBBB3 = "https://www.c3d2.de/";
-var urlBBB4 = "https://www.c3d2.de/";
-var urlBBB5 = "https://www.c3d2.de/";
-var urlBBB6 = "https://www.c3d2.de/";
+var urlBBB1 = "https://zentralwerk.de/";
+var urlBBB2 = "https://zentralwerk.de/";
+var urlBBB3 = "https://zentralwerk.de/";
+var urlBBB4 = "https://zentralwerk.de/";
+var urlBBB5 = "https://zentralwerk.de/";
+var urlBBB6 = "https://zentralwerk.de/";
 
 var currentPopup = undefined;
 
@@ -30,7 +30,7 @@ WA.onEnterZone(zoneStageName, () => {
 })
 
 WA.onEnterZone(zoneBBB1Name, () => {
-   currentPopup =  WA.openPopup("popUpBBB1","Zugang zu den Kongressräumen: Drücke 'OPEN' - kein Passwort? Einfach anmelden. (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
+   currentPopup =  WA.openPopup("popUpBBB1","Drücke 'OPEN' um in den Raum 1 zu kommen! (Pop-up-Fenster müssen im Browser erlaubt sein) ",[
         {
             label: "OPEN",
             className: "popUpElement",
@@ -96,7 +96,7 @@ WA.onEnterZone(zoneBBB6Name, () => {
 })
 
 WA.onEnterZone(zoneWelcomeName, () => {
-    currentPopup =  WA.openPopup("popUpWelcome","Willkommen, Bienvenue, Welcome!",[]);
+    currentPopup =  WA.openPopup("popUpWelcome","Herzlich Willkommen and Welcome!",[]);
 })
 
 WA.onLeaveZone(zoneStageName, closePopUp)
