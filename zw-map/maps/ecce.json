@@ -93,7 +93,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main#start_ecce"
+                 "value":"main.json#start_ecce"
                 }],
          "type":"tilelayer",
          "visible":true,
