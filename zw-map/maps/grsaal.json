@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main#start_grsaal2"
+                 "value":"main.json#start_grsaal2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/#start_grsaal1"
+                 "value":"main.json#start_grsaal1"
                 }],
          "type":"tilelayer",
          "visible":true,

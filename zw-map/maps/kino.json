@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hq#start_kino"
+                 "value":"hq.json#start_kino"
                 }],
          "type":"tilelayer",
          "visible":true,

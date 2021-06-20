@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hq#start_seminar3"
+                 "value":"hq.json#start_seminar3"
                 }],
          "type":"tilelayer",
          "visible":true,

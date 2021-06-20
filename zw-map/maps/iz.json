@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main#start_iz"
+                 "value":"main.json#start_iz"
                 }],
          "type":"tilelayer",
          "visible":true,

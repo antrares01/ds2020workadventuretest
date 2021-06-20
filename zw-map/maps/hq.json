@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/kino"
+                 "value":"kino.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/seminar3"
+                 "value":"seminar3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main#start_hq2"
+                 "value":"main.json#start_hq2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main#start_hq1"
+                 "value":"main.json#start_hq1"
                 }],
          "type":"tilelayer",
          "visible":true,

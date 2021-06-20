@@ -134,7 +134,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/iz"
+                 "value":"iz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -152,7 +152,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/ecce"
+                 "value":"ecce.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -170,7 +170,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/wurzelwerk"
+                 "value":"wurzelwerk.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,7 +188,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hq#start2"
+                 "value":"hq.json#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,7 +206,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hq"
+                 "value":"hq.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -224,7 +224,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/grsaal#start2"
+                 "value":"grsaal.json#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -242,7 +242,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/grsaal"
+                 "value":"grsaal.json"
                 }],
          "type":"tilelayer",
          "visible":true,
